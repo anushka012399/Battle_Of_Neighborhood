@@ -1,6 +1,7 @@
 # Battle Of Neighborhood
 This was made by me in 2020 for IBM Final Capstone Project.
 Built a Recommender System for expats looking for a family friendly neighborhoods in Downtown Toronto.<br><br>
+
 ***Business Problem***<br>
 Since Toronto is full of expats, it is implied that many families shift to Toronto every year and seek for a familyfriendly neighbourhood to live in.
 Family-friendly neighbourhoods are characterized by:<br>
@@ -19,7 +20,7 @@ For this project, we will be needing three datasets:<br>
 2. Geospatial data that contains geo-locational information (latitudes and longitudes) about different
 boruoghs and their neighbouhoods.<br>
 3. Data obtained using 'Foursquare' to get details about different venues present in the neighbouhood
-of the specific borough (Downtown-in this project)<br><br>
+of the specific borough.(Downtown-in this project)<br><br>
 
 For detailed idea about the project please check the attached pdf "Report of Capstone Project" and pptx "Final Capstone Presentation" in the repository.
      
