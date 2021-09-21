@@ -9,7 +9,9 @@ Family-friendly neighbourhoods are characterized by:<br>
 3. having a good transport network (bus station, metro, airport etc.)<br>
 4. amenities for children (school, park, foodcourts, university etc.)<br>
 5. far from nightlife places (bars, pubs etc.)<br>
-There is an agent in the downtown borough of Toronto that helps expats find family-friendly neighbourhoodsusing this recommender system. This system finds neighbourhoods that have the maximum number of family friendly venues.Features(or categories) that an expat requiers in their neighbourhood can be filtered out and customized as per the needs.<br><br>
+There is an agent in the downtown borough of Toronto that helps expats find family-friendly neighbourhoodsusing this recommender system. 
+This system finds neighbourhoods that have the maximum number of family friendly venues.Features(or categories) that an expat requiers in their 
+neighbourhood can be filtered out and customized as per the needs.<br><br>
 ***Data Acquisition and Cleaning***<br>
 For this project, we will be needing three datasets:<br>
 1. Dataset that contains a list of all neighbourhoods, their boroughs and postal code of Canada.<br>
