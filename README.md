@@ -20,5 +20,6 @@ For this project, we will be needing three datasets:<br>
 boruoghs and their neighbouhoods.<br>
 3. Data obtained using 'Foursquare' to get details about different venues present in the neighbouhood
 of the specific borough (Downtown-in this project)<br><br>
+
 For detailed idea about the project please check the attached pdf "Report of Capstone Project" and pptx "Final Capstone Presentation" in the repository.
      
