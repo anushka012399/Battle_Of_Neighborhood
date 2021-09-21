@@ -18,7 +18,7 @@ neighbourhood can be filtered out and customized as per the needs.<br><br>
 For this project, we will be needing three datasets:<br>
 1. Dataset that contains a list of all neighbourhoods, their boroughs and postal code of Canada.<br>
 2. Geospatial data that contains geo-locational information (latitudes and longitudes) about different
-boruoghs and their neighbouhoods.<br>
+boroughs and their neighbouhoods.<br>
 3. Data obtained using 'Foursquare' to get details about different venues present in the neighbouhood
 of the specific borough.(Downtown-in this project)<br><br>
 
