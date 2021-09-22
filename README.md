@@ -1,5 +1,5 @@
 # Battle Of Neighborhood
-Built a Recommender System for expats looking for a family friendly neighborhoods in Downtown Toronto.<br>
+Built a Recommender System for expats looking for a family friendly neighborhoods in Downtown Toronto.<br><br>
 ***Business Problem***<br>
 Since Toronto is full of expats, it is implied that many families shift to Toronto every year and seek for a familyfriendly neighbourhood to live in.
 Family-friendly neighbourhoods are characterized by:<br>
