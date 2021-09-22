@@ -1,5 +1,4 @@
 # Battle Of Neighborhood
-This was made by me in 2020 for IBM Final Capstone Project.
 Built a Recommender System for expats looking for a family friendly neighborhoods in Downtown Toronto.<br><br>
 
 ***Business Problem***<br>
